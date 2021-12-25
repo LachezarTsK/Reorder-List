@@ -39,6 +39,6 @@ var reorderList = function (head) {
 };
 
 function ListNode(val, next) {
-    this.val = (val === undefined ? 0 : val)
-    this.next = (next === undefined ? null : next)
+    this.val = (val === undefined ? 0 : val);
+    this.next = (next === undefined ? null : next);
 }
